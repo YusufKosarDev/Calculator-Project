@@ -1,8 +1,8 @@
-**Calculator Project**
+# Calculator Project
 
 This is a simple and interactive Calculator application built using only HTML and CSS. It allows users to perform basic arithmetic operations with a clean and intuitive interface.
 
-📝 What Does It Do?
+## 📝 What Does It Do?
 
 The Calculator project provides a minimal interface for simple calculations:
 
@@ -12,7 +12,7 @@ Clear: Reset the input and result display.
 
 Instant Feedback: The UI shows button presses and input in real-time.
 
-⚙️ How Does It Work?
+## ⚙️ How Does It Work?
 
 The project is built purely with HTML and CSS:
 
@@ -22,7 +22,7 @@ CSS Styling: Uses styling to create a visually appealing layout, button effects,
 
 Button Interaction: CSS pseudo-classes like :active provide visual feedback on clicks.
 
-🎓 What Have I Learned?
+## 🎓 What Have I Learned?
 
 By building this project, I improved my understanding of:
 
@@ -35,4 +35,4 @@ UI/UX Principles: Creating a user-friendly calculator without JavaScript.
 Creative Problem Solving: Implementing interactive-like behavior using only CSS.
 
 
-🚀 Live Demo: https://yusufkosardev.github.io/Calculator-Project/
+### 🚀 Live Demo: https://yusufkosardev.github.io/Calculator-Project/
